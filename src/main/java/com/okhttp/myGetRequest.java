@@ -36,7 +36,6 @@ public class myGetRequest {
                 .addHeader("accept","text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8")
                 .addHeader("user-agent","Mozilla/5.0 (iPhone; CPU iPhone OS 13_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/7.0.12(0x17000c30) NetType/WIFI Language/zh_CN")
                 .build();//构建
-
         //执行
         try {
             //接收执行后的返回
